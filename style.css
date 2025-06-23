@@ -1,0 +1,14 @@
+.carousel-item {
+  height: 500px !important;
+}
+
+.img {
+  -o-object-fit: cover;
+  object-fit: cover;
+  height: 100%;
+  background-position: center;
+}
+
+#carouselExample {
+  height: 500px !important;
+}
